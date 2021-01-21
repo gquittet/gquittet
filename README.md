@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on [graceful-server](https://github.com/gquittet/graceful-server)
 
-- 📝 I regularly write articles on [https://gquittet.medium.com/](https://gquittet.medium.com/)
+- 📝 I regularly write articles on [Medium](https://gquittet.medium.com/)
 
 - 💬 Ask me about **(Java|Type)Script (Front|Back)End Projects**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/gquittet](https://www.linkedin.com/in/gquittet)
+- <img width="15px" height="15px" alt="LinkedIn logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />  [@gquittet](https://www.linkedin.com/in/gquittet)
