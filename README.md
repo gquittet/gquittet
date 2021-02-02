@@ -1,4 +1,4 @@
-<img align="right" width="400px" height="225px" src="https://github-readme-stats.vercel.app/api?username=gquittet&show_icons=true&locale=en" alt="gquittet" />
+<img align="right" width="400px" height="225px" src="https://github-readme-stats.vercel.app/api?username=gquittet&show_icons=true&locale=en&include_all_commits=true" alt="gquittet" />
 
 #### A passionate developer who want to make your ideas to be alive
 
